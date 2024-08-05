@@ -1,4 +1,5 @@
 ## Quizify
+<img width="1182" alt="Screenshot 2024-08-05 at 4 41 32 PM" src="https://github.com/user-attachments/assets/8a8b6f47-9dff-41cf-9a4f-8f7566c757ab">
 
 ## Description
 Quizify is a multiplayer trivia game application built with React, Express, and MongoDB. It allows users to compete in a Jeopardy-style quiz featuring:
