@@ -31,7 +31,7 @@ npm install
 1. Start the development server:
 
 ```Bash
-npm start
+npm run dev
 ```
 
 2. Open your web browser and visit http://localhost:3000 to play the trivia game.   
